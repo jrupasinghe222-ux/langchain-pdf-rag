@@ -62,7 +62,7 @@ The application uses LangChain to automate the RAG pipeline, including document 
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-rag.git
+git clone https://github.com/jrupasinghe222-ux/langchain-pdf-rag.git
 cd langchain-rag
 ```
 
