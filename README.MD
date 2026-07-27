@@ -4,8 +4,6 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload a
 
 The application uses LangChain to automate the RAG pipeline, including document loading, text chunking, embedding generation, vector search with FAISS, and answer generation using a local Ollama LLM.
 
----
-
 ## Tech Stack
 
 - Python
@@ -54,8 +52,6 @@ The application uses LangChain to automate the RAG pipeline, including document 
                          ▼
                  Generated Answer
 ```
-
----
 
 ## ⚙️ Installation
 
@@ -142,3 +138,4 @@ Open the browser and:
 - Local Large Language Models
 - Streamlit
 
+## Interface
